@@ -1,6 +1,6 @@
 # Vulnerability Checker for Amazon Linux
 
-Este script descarga y filtra las vulnerabilidades de seguridad publicadas para las diferentes versiones de Amazon Linux en los últimos 365 días. Utiliza los feeds RSS proporcionados por Amazon Web Services para obtener la información más reciente sobre las vulnerabilidades.
+Este script descarga y filtra las vulnerabilidades de seguridad publicadas para las diferentes versiones de Amazon Linux en los últimos días definidos en la variable days_to_check. Utiliza los feeds RSS proporcionados por Amazon Web Services para obtener la información más reciente sobre las vulnerabilidades.
 
 ## Uso
 
